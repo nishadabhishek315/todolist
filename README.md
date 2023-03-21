@@ -13,4 +13,4 @@ To run the project locally--
 4. Go to your browser and search for "localhost:3000"
 
 
-** You must have installed mongodb.
+
